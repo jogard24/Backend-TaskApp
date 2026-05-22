@@ -1,4 +1,4 @@
-# PROYECTO BASE: [Nombre de la Aplicación] - Software Factory SENA
+# PROYECTO BASE: [Backend TaskApp] - Software Factory SENA
 
 **Metodología:** *"Del Requerimiento al Producto"*
 
@@ -72,7 +72,7 @@ Para estandarizar el desarrollo y evitar errores de compatibilidad, sigue estos 
 
 ```bash
 # Paso 1. Clonar el repositorio
-git clone [URL-del-repositorio-grupal]
+git clone [https://github.com/jogard24/Backend-TaskApp.git]
 
 # Paso 2. Instalar dependencias
 npm install
