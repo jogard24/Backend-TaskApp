@@ -8,6 +8,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
 | [Jhonatan David Leherici Carrascal] | Desarrollador | `@Oatan1505` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Wendy Vanesa Vera Arrieta | Desarrollador | `@Wendy-vera` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
